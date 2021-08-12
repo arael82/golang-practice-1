@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "cards"
+		},
+		{
+			"path": "oddeven"
+		},
+		{
+			"path": "structs"
+		},
+		{
+			"path": "maps"
+		},
+		{
+			"path": "interfaces"
+		},
+		{
+			"path": "http"
+		},
+		{
+			"path": "shapes"
+		},
+		{
+			"path": "file-read"
+		},
+		{
+			"path": "channels"
+		}
+	]
+}
